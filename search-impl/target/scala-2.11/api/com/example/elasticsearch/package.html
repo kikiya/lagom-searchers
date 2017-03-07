@@ -1,0 +1,206 @@
+<!DOCTYPE html >
+<html>
+        <head>
+          <title>elasticsearch - com.example.elasticsearch</title>
+          <meta name="description" content="elasticsearch - com.example.elasticsearch" />
+          <meta name="keywords" content="elasticsearch com.example.elasticsearch" />
+          <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+          
+      <link href="../../../lib/template.css" media="screen" type="text/css" rel="stylesheet" />
+      <link href="../../../lib/diagrams.css" media="screen" type="text/css" rel="stylesheet" id="diagrams-css" />
+      <script type="text/javascript" src="../../../lib/jquery.js" id="jquery-js"></script>
+      <script type="text/javascript" src="../../../lib/jquery-ui.js"></script>
+      <script type="text/javascript" src="../../../lib/template.js"></script>
+      <script type="text/javascript" src="../../../lib/tools.tooltip.js"></script>
+      
+      <script type="text/javascript">
+         if(top === self) {
+            var url = '../../../index.html';
+            var hash = 'com.example.elasticsearch.package';
+            var anchor = window.location.hash;
+            var anchor_opt = '';
+            if (anchor.length >= 1)
+              anchor_opt = '@' + anchor.substring(1);
+            window.location.href = url + '#' + hash + anchor_opt;
+         }
+   	  </script>
+    
+        </head>
+        <body class="value">
+      <div id="definition">
+        <img alt="Package" src="../../../lib/package_big.png" />
+        <p id="owner"><a href="../../package.html" class="extype" name="com">com</a>.<a href="../package.html" class="extype" name="com.example">example</a></p>
+        <h1>elasticsearch</h1><span class="permalink">
+      <a href="../../../index.html#com.example.elasticsearch.package" title="Permalink" target="_top">
+        <img src="../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      </div>
+
+      <h4 id="signature" class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">package</span>
+      </span>
+      <span class="symbol">
+        <span class="name">elasticsearch</span>
+      </span>
+      </h4>
+      
+          <div id="comment" class="fullcommenttop"></div>
+        
+
+      <div id="mbrsel">
+        <div id="textfilter"><span class="pre"></span><span class="input"><input id="mbrsel-input" type="text" accesskey="/" /></span><span class="post"></span></div>
+        
+        
+        <div id="visbl">
+            <span class="filtertype">Visibility</span>
+            <ol><li class="public in"><span>Public</span></li><li class="all out"><span>All</span></li></ol>
+          </div>
+      </div>
+
+      <div id="template">
+        <div id="allMembers">
+        
+
+        <div id="types" class="types members">
+              <h3>Type Members</h3>
+              <ol><li name="com.example.elasticsearch.ElasticSearchIndexedStore" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="ElasticSearchIndexedStoreextendsIndexedStore[com.example.elasticsearch.response.SearchResult]"></a>
+      <a id="ElasticSearchIndexedStore:ElasticSearchIndexedStore"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">class</span>
+      </span>
+      <span class="symbol">
+        <a href="ElasticSearchIndexedStore.html"><span class="name">ElasticSearchIndexedStore</span></a><span class="result"> extends <a href="../auction/search/IndexedStore.html" class="extype" name="com.example.auction.search.IndexedStore">IndexedStore</a>[<a href="response/SearchResult.html" class="extype" name="com.example.elasticsearch.response.SearchResult">SearchResult</a>]</span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../index.html#com.example.elasticsearch.package@ElasticSearchIndexedStoreextendsIndexedStore[com.example.elasticsearch.response.SearchResult]" title="Permalink" target="_top">
+        <img src="../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.Elasticsearch" visbl="pub" data-isabs="true" fullComment="no" group="Ungrouped">
+      <a id="ElasticsearchextendsService"></a>
+      <a id="Elasticsearch:Elasticsearch"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">trait</span>
+      </span>
+      <span class="symbol">
+        <a href="Elasticsearch.html"><span class="name">Elasticsearch</span></a><span class="result"> extends <span class="extype" name="com.lightbend.lagom.scaladsl.api.Service">Service</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../index.html#com.example.elasticsearch.package@ElasticsearchextendsService" title="Permalink" target="_top">
+        <img src="../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.IndexedItem" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="IndexedItemextendsProductwithSerializable"></a>
+      <a id="IndexedItem:IndexedItem"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">case class</span>
+      </span>
+      <span class="symbol">
+        <a href="IndexedItem.html"><span class="name">IndexedItem</span></a><span class="params">(<span name="itemId">itemId: <span class="extype" name="java.util.UUID">UUID</span></span>, <span name="creatorId">creatorId: <span class="extype" name="scala.Option">Option</span>[<span class="extype" name="java.util.UUID">UUID</span>] = <span class="symbol">None</span></span>, <span name="title">title: <span class="extype" name="scala.Option">Option</span>[<span class="extype" name="scala.Predef.String">String</span>] = <span class="symbol">None</span></span>, <span name="description">description: <span class="extype" name="scala.Option">Option</span>[<span class="extype" name="scala.Predef.String">String</span>] = <span class="symbol">None</span></span>, <span name="currencyId">currencyId: <span class="extype" name="scala.Option">Option</span>[<span class="extype" name="scala.Predef.String">String</span>] = <span class="symbol">None</span></span>, <span name="price">price: <span class="extype" name="scala.Option">Option</span>[<span class="extype" name="scala.Int">Int</span>] = <span class="symbol">None</span></span>, <span name="status">status: <span class="extype" name="scala.Option">Option</span>[<span class="extype" name="scala.Predef.String">String</span>] = <span class="symbol">None</span></span>, <span name="winner">winner: <span class="extype" name="scala.Option">Option</span>[<span class="extype" name="java.util.UUID">UUID</span>] = <span class="symbol">None</span></span>)</span><span class="result"> extends <span class="extype" name="scala.Product">Product</span> with <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../index.html#com.example.elasticsearch.package@IndexedItemextendsProductwithSerializable" title="Permalink" target="_top">
+        <img src="../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li></ol>
+            </div>
+
+        
+
+        <div id="values" class="values members">
+              <h3>Value Members</h3>
+              <ol><li name="com.example.elasticsearch.IndexedItem" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="IndexedItem"></a>
+      <a id="IndexedItem:IndexedItem"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">object</span>
+      </span>
+      <span class="symbol">
+        <a href="IndexedItem$.html"><span class="name">IndexedItem</span></a><span class="result"> extends <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../index.html#com.example.elasticsearch.package@IndexedItem" title="Permalink" target="_top">
+        <img src="../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="request"></a>
+      <a id="request:request"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">package</span>
+      </span>
+      <span class="symbol">
+        <a href="request/package.html"><span class="name">request</span></a>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../index.html#com.example.elasticsearch.package@request" title="Permalink" target="_top">
+        <img src="../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.response" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="response"></a>
+      <a id="response:response"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">package</span>
+      </span>
+      <span class="symbol">
+        <a href="response/package.html"><span class="name">response</span></a>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../index.html#com.example.elasticsearch.package@response" title="Permalink" target="_top">
+        <img src="../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li></ol>
+            </div>
+
+        
+
+        
+        </div>
+
+        <div id="inheritedMembers">
+        
+        
+        </div>
+
+        <div id="groupedMembers">
+        <div class="group" name="Ungrouped">
+              <h3>Ungrouped</h3>
+              
+            </div>
+        </div>
+
+      </div>
+
+      <div id="tooltip"></div>
+
+      <div id="footer">  </div>
+
+
+    </body>
+      </html>

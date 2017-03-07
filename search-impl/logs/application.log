@@ -1,0 +1,2 @@
+2017-03-06 09:02:27,087 [WARN] from org.apache.kafka.clients.NetworkClient in searchImpl-application-akka.kafka.default-dispatcher-24 - Error while fetching metadata with correlation id 1 : {bidding-BidEvent=LEADER_NOT_AVAILABLE}
+2017-03-06 09:18:22,389 [WARN] from akka.kafka.KafkaConsumerActor in searchImpl-application-akka.actor.default-dispatcher-19 - Consumer interrupted with WakeupException after timeout. Message: null. Current value of akka.kafka.consumer.wakeup-timeout is 3000 milliseconds

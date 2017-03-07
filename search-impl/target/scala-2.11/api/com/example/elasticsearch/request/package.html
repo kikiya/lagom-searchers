@@ -1,0 +1,614 @@
+<!DOCTYPE html >
+<html>
+        <head>
+          <title>request - com.example.elasticsearch.request</title>
+          <meta name="description" content="request - com.example.elasticsearch.request" />
+          <meta name="keywords" content="request com.example.elasticsearch.request" />
+          <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+          
+      <link href="../../../../lib/template.css" media="screen" type="text/css" rel="stylesheet" />
+      <link href="../../../../lib/diagrams.css" media="screen" type="text/css" rel="stylesheet" id="diagrams-css" />
+      <script type="text/javascript" src="../../../../lib/jquery.js" id="jquery-js"></script>
+      <script type="text/javascript" src="../../../../lib/jquery-ui.js"></script>
+      <script type="text/javascript" src="../../../../lib/template.js"></script>
+      <script type="text/javascript" src="../../../../lib/tools.tooltip.js"></script>
+      
+      <script type="text/javascript">
+         if(top === self) {
+            var url = '../../../../index.html';
+            var hash = 'com.example.elasticsearch.request.package';
+            var anchor = window.location.hash;
+            var anchor_opt = '';
+            if (anchor.length >= 1)
+              anchor_opt = '@' + anchor.substring(1);
+            window.location.href = url + '#' + hash + anchor_opt;
+         }
+   	  </script>
+    
+        </head>
+        <body class="value">
+      <div id="definition">
+        <img alt="Package" src="../../../../lib/package_big.png" />
+        <p id="owner"><a href="../../../package.html" class="extype" name="com">com</a>.<a href="../../package.html" class="extype" name="com.example">example</a>.<a href="../package.html" class="extype" name="com.example.elasticsearch">elasticsearch</a></p>
+        <h1>request</h1><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      </div>
+
+      <h4 id="signature" class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">package</span>
+      </span>
+      <span class="symbol">
+        <span class="name">request</span>
+      </span>
+      </h4>
+      
+          <div id="comment" class="fullcommenttop"></div>
+        
+
+      <div id="mbrsel">
+        <div id="textfilter"><span class="pre"></span><span class="input"><input id="mbrsel-input" type="text" accesskey="/" /></span><span class="post"></span></div>
+        
+        
+        <div id="visbl">
+            <span class="filtertype">Visibility</span>
+            <ol><li class="public in"><span>Public</span></li><li class="all out"><span>All</span></li></ol>
+          </div>
+      </div>
+
+      <div id="template">
+        <div id="allMembers">
+        
+
+        <div id="types" class="types members">
+              <h3>Type Members</h3>
+              <ol><li name="com.example.elasticsearch.request.BooleanQuery" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="BooleanQueryextendsProductwithSerializable"></a>
+      <a id="BooleanQuery:BooleanQuery"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">case class</span>
+      </span>
+      <span class="symbol">
+        <a href="BooleanQuery.html"><span class="name">BooleanQuery</span></a><span class="params">(<span name="must_not">must_not: <a href="Filter.html" class="extype" name="com.example.elasticsearch.request.Filter">Filter</a></span>, <span name="must">must: <span class="extype" name="scala.Seq">Seq</span>[<a href="Filter.html" class="extype" name="com.example.elasticsearch.request.Filter">Filter</a>]</span>)</span><span class="result"> extends <span class="extype" name="scala.Product">Product</span> with <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@BooleanQueryextendsProductwithSerializable" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.CurrencyFilter" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="CurrencyFilterextendsFilterwithProductwithSerializable"></a>
+      <a id="CurrencyFilter:CurrencyFilter"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">case class</span>
+      </span>
+      <span class="symbol">
+        <a href="CurrencyFilter.html"><span class="name">CurrencyFilter</span></a><span class="params">(<span name="match">match: <a href="CurrencyMatch.html" class="extype" name="com.example.elasticsearch.request.CurrencyMatch">CurrencyMatch</a></span>)</span><span class="result"> extends <a href="Filter.html" class="extype" name="com.example.elasticsearch.request.Filter">Filter</a> with <span class="extype" name="scala.Product">Product</span> with <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@CurrencyFilterextendsFilterwithProductwithSerializable" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.CurrencyMatch" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="CurrencyMatchextendsMatchwithProductwithSerializable"></a>
+      <a id="CurrencyMatch:CurrencyMatch"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">case class</span>
+      </span>
+      <span class="symbol">
+        <a href="CurrencyMatch.html"><span class="name">CurrencyMatch</span></a><span class="params">(<span name="currencyId">currencyId: <span class="extype" name="scala.Predef.String">String</span></span>)</span><span class="result"> extends <a href="Match.html" class="extype" name="com.example.elasticsearch.request.Match">Match</a> with <span class="extype" name="scala.Product">Product</span> with <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@CurrencyMatchextendsMatchwithProductwithSerializable" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.Filter" visbl="pub" data-isabs="true" fullComment="no" group="Ungrouped">
+      <a id="FilterextendsAnyRef"></a>
+      <a id="Filter:Filter"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier">sealed </span>
+        <span class="kind">trait</span>
+      </span>
+      <span class="symbol">
+        <a href="Filter.html"><span class="name">Filter</span></a><span class="result"> extends <span class="extype" name="scala.AnyRef">AnyRef</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@FilterextendsAnyRef" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.ItemStatusFilter" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="ItemStatusFilterextendsFilterwithProductwithSerializable"></a>
+      <a id="ItemStatusFilter:ItemStatusFilter"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">case class</span>
+      </span>
+      <span class="symbol">
+        <a href="ItemStatusFilter.html"><span class="name">ItemStatusFilter</span></a><span class="params">(<span name="itemStatus">itemStatus: <span class="extype" name="com.example.auction.item.api.ItemStatus.Status">Status</span></span>)</span><span class="result"> extends <a href="Filter.html" class="extype" name="com.example.elasticsearch.request.Filter">Filter</a> with <span class="extype" name="scala.Product">Product</span> with <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@ItemStatusFilterextendsFilterwithProductwithSerializable" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.KeywordMatch" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="KeywordMatchextendsMatchwithProductwithSerializable"></a>
+      <a id="KeywordMatch:KeywordMatch"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">case class</span>
+      </span>
+      <span class="symbol">
+        <a href="KeywordMatch.html"><span class="name">KeywordMatch</span></a><span class="params">(<span name="query">query: <span class="extype" name="scala.Predef.String">String</span></span>, <span name="fields">fields: <span class="extype" name="scala.Seq">Seq</span>[<span class="extype" name="scala.Predef.String">String</span>] = <span class="symbol">Seq(&quot;title&quot;, &quot;description&quot;)</span></span>)</span><span class="result"> extends <a href="Match.html" class="extype" name="com.example.elasticsearch.request.Match">Match</a> with <span class="extype" name="scala.Product">Product</span> with <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@KeywordMatchextendsMatchwithProductwithSerializable" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.KeywordsFilter" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="KeywordsFilterextendsFilterwithProductwithSerializable"></a>
+      <a id="KeywordsFilter:KeywordsFilter"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">case class</span>
+      </span>
+      <span class="symbol">
+        <a href="KeywordsFilter.html"><span class="name">KeywordsFilter</span></a><span class="params">(<span name="multi_match">multi_match: <a href="Match.html" class="extype" name="com.example.elasticsearch.request.Match">Match</a></span>)</span><span class="result"> extends <a href="Filter.html" class="extype" name="com.example.elasticsearch.request.Filter">Filter</a> with <span class="extype" name="scala.Product">Product</span> with <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@KeywordsFilterextendsFilterwithProductwithSerializable" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.Match" visbl="pub" data-isabs="true" fullComment="no" group="Ungrouped">
+      <a id="MatchextendsAnyRef"></a>
+      <a id="Match:Match"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier">sealed </span>
+        <span class="kind">trait</span>
+      </span>
+      <span class="symbol">
+        <a href="Match.html"><span class="name">Match</span></a><span class="result"> extends <span class="extype" name="scala.AnyRef">AnyRef</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@MatchextendsAnyRef" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.PriceRangeFilter" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="PriceRangeFilterextendsFilterwithProductwithSerializable"></a>
+      <a id="PriceRangeFilter:PriceRangeFilter"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">case class</span>
+      </span>
+      <span class="symbol">
+        <a href="PriceRangeFilter.html"><span class="name">PriceRangeFilter</span></a><span class="params">(<span name="price">price: <a href="RangeInt.html" class="extype" name="com.example.elasticsearch.request.RangeInt">RangeInt</a></span>)</span><span class="result"> extends <a href="Filter.html" class="extype" name="com.example.elasticsearch.request.Filter">Filter</a> with <span class="extype" name="scala.Product">Product</span> with <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@PriceRangeFilterextendsFilterwithProductwithSerializable" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.Query" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="QueryextendsProductwithSerializable"></a>
+      <a id="Query:Query"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">case class</span>
+      </span>
+      <span class="symbol">
+        <a href="Query.html"><span class="name">Query</span></a><span class="params">(<span name="bool">bool: <a href="BooleanQuery.html" class="extype" name="com.example.elasticsearch.request.BooleanQuery">BooleanQuery</a></span>)</span><span class="result"> extends <span class="extype" name="scala.Product">Product</span> with <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@QueryextendsProductwithSerializable" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.QueryRoot" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="QueryRootextendsProductwithSerializable"></a>
+      <a id="QueryRoot:QueryRoot"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">case class</span>
+      </span>
+      <span class="symbol">
+        <a href="QueryRoot.html"><span class="name">QueryRoot</span></a><span class="params">(<span name="pageNumber">pageNumber: <span class="extype" name="scala.Int">Int</span></span>, <span name="pageSize">pageSize: <span class="extype" name="scala.Int">Int</span></span>, <span name="query">query: <a href="Query.html" class="extype" name="com.example.elasticsearch.request.Query">Query</a></span>, <span name="sort">sort: <span class="extype" name="scala.Seq">Seq</span>[<a href="SortField.html" class="extype" name="com.example.elasticsearch.request.SortField">SortField</a>] = <span class="defval" name='<span class="name"><a href="Sorters$.html">Seq(Sorters.auctionEndDescending(), Sorters.priceAscending())</a></span>'>...</span></span>)</span><span class="result"> extends <span class="extype" name="scala.Product">Product</span> with <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@QueryRootextendsProductwithSerializable" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.RangeInt" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="RangeIntextendsProductwithSerializable"></a>
+      <a id="RangeInt:RangeInt"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">case class</span>
+      </span>
+      <span class="symbol">
+        <a href="RangeInt.html"><span class="name">RangeInt</span></a><span class="params">(<span name="lte">lte: <span class="extype" name="scala.Option">Option</span>[<span class="extype" name="scala.Int">Int</span>]</span>, <span name="gte">gte: <span class="extype" name="scala.Option">Option</span>[<span class="extype" name="scala.Int">Int</span>] = <span class="symbol">None</span></span>)</span><span class="result"> extends <span class="extype" name="scala.Product">Product</span> with <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@RangeIntextendsProductwithSerializable" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.SortField" visbl="pub" data-isabs="true" fullComment="no" group="Ungrouped">
+      <a id="SortFieldextendsAnyRef"></a>
+      <a id="SortField:SortField"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier">sealed </span>
+        <span class="kind">trait</span>
+      </span>
+      <span class="symbol">
+        <a href="SortField.html"><span class="name">SortField</span></a><span class="result"> extends <span class="extype" name="scala.AnyRef">AnyRef</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@SortFieldextendsAnyRef" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.UpdateIndexItem" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="UpdateIndexItemextendsProductwithSerializable"></a>
+      <a id="UpdateIndexItem:UpdateIndexItem"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">case class</span>
+      </span>
+      <span class="symbol">
+        <a href="UpdateIndexItem.html"><span class="name">UpdateIndexItem</span></a><span class="params">(<span name="doc">doc: <a href="../IndexedItem.html" class="extype" name="com.example.elasticsearch.IndexedItem">IndexedItem</a></span>, <span name="doc_as_upsert">doc_as_upsert: <span class="extype" name="scala.Boolean">Boolean</span> = <span class="symbol">true</span></span>)</span><span class="result"> extends <span class="extype" name="scala.Product">Product</span> with <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@UpdateIndexItemextendsProductwithSerializable" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li></ol>
+            </div>
+
+        
+
+        <div id="values" class="values members">
+              <h3>Value Members</h3>
+              <ol><li name="com.example.elasticsearch.request.BooleanQuery" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="BooleanQuery"></a>
+      <a id="BooleanQuery:BooleanQuery"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">object</span>
+      </span>
+      <span class="symbol">
+        <a href="BooleanQuery$.html"><span class="name">BooleanQuery</span></a><span class="result"> extends <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@BooleanQuery" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.CurrencyFilter" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="CurrencyFilter"></a>
+      <a id="CurrencyFilter:CurrencyFilter"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">object</span>
+      </span>
+      <span class="symbol">
+        <a href="CurrencyFilter$.html"><span class="name">CurrencyFilter</span></a><span class="result"> extends <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@CurrencyFilter" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.CurrencyMatch" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="CurrencyMatch"></a>
+      <a id="CurrencyMatch:CurrencyMatch"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">object</span>
+      </span>
+      <span class="symbol">
+        <a href="CurrencyMatch$.html"><span class="name">CurrencyMatch</span></a><span class="result"> extends <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@CurrencyMatch" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.Filter" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="Filter"></a>
+      <a id="Filter:Filter"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">object</span>
+      </span>
+      <span class="symbol">
+        <a href="Filter$.html"><span class="name">Filter</span></a>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@Filter" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.Filters" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="Filters"></a>
+      <a id="Filters:Filters"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">object</span>
+      </span>
+      <span class="symbol">
+        <a href="Filters$.html"><span class="name">Filters</span></a>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@Filters" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.ItemStatusFilter" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="ItemStatusFilter"></a>
+      <a id="ItemStatusFilter:ItemStatusFilter"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">object</span>
+      </span>
+      <span class="symbol">
+        <a href="ItemStatusFilter$.html"><span class="name">ItemStatusFilter</span></a><span class="result"> extends <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@ItemStatusFilter" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.KeywordMatch" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="KeywordMatch"></a>
+      <a id="KeywordMatch:KeywordMatch"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">object</span>
+      </span>
+      <span class="symbol">
+        <a href="KeywordMatch$.html"><span class="name">KeywordMatch</span></a><span class="result"> extends <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@KeywordMatch" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.KeywordsFilter" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="KeywordsFilter"></a>
+      <a id="KeywordsFilter:KeywordsFilter"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">object</span>
+      </span>
+      <span class="symbol">
+        <a href="KeywordsFilter$.html"><span class="name">KeywordsFilter</span></a><span class="result"> extends <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@KeywordsFilter" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.Match" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="Match"></a>
+      <a id="Match:Match"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">object</span>
+      </span>
+      <span class="symbol">
+        <a href="Match$.html"><span class="name">Match</span></a>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@Match" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.PriceRangeFilter" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="PriceRangeFilter"></a>
+      <a id="PriceRangeFilter:PriceRangeFilter"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">object</span>
+      </span>
+      <span class="symbol">
+        <a href="PriceRangeFilter$.html"><span class="name">PriceRangeFilter</span></a><span class="result"> extends <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@PriceRangeFilter" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.Query" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="Query"></a>
+      <a id="Query:Query"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">object</span>
+      </span>
+      <span class="symbol">
+        <a href="Query$.html"><span class="name">Query</span></a><span class="result"> extends <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@Query" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.QueryRoot" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="QueryRoot"></a>
+      <a id="QueryRoot:QueryRoot"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">object</span>
+      </span>
+      <span class="symbol">
+        <a href="QueryRoot$.html"><span class="name">QueryRoot</span></a><span class="result"> extends <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@QueryRoot" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.RangeInt" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="RangeInt"></a>
+      <a id="RangeInt:RangeInt"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">object</span>
+      </span>
+      <span class="symbol">
+        <a href="RangeInt$.html"><span class="name">RangeInt</span></a><span class="result"> extends <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@RangeInt" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.SortField" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="SortField"></a>
+      <a id="SortField:SortField"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">object</span>
+      </span>
+      <span class="symbol">
+        <a href="SortField$.html"><span class="name">SortField</span></a>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@SortField" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.Sorters" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="Sorters"></a>
+      <a id="Sorters:Sorters"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">object</span>
+      </span>
+      <span class="symbol">
+        <a href="Sorters$.html"><span class="name">Sorters</span></a>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@Sorters" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li><li name="com.example.elasticsearch.request.UpdateIndexItem" visbl="pub" data-isabs="false" fullComment="no" group="Ungrouped">
+      <a id="UpdateIndexItem"></a>
+      <a id="UpdateIndexItem:UpdateIndexItem"></a>
+      <h4 class="signature">
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">object</span>
+      </span>
+      <span class="symbol">
+        <a href="UpdateIndexItem$.html"><span class="name">UpdateIndexItem</span></a><span class="result"> extends <span class="extype" name="scala.Serializable">Serializable</span></span>
+      </span>
+      </h4><span class="permalink">
+      <a href="../../../../index.html#com.example.elasticsearch.request.package@UpdateIndexItem" title="Permalink" target="_top">
+        <img src="../../../../lib/permalink.png" alt="Permalink" />
+      </a>
+    </span>
+      
+    </li></ol>
+            </div>
+
+        
+
+        
+        </div>
+
+        <div id="inheritedMembers">
+        
+        
+        </div>
+
+        <div id="groupedMembers">
+        <div class="group" name="Ungrouped">
+              <h3>Ungrouped</h3>
+              
+            </div>
+        </div>
+
+      </div>
+
+      <div id="tooltip"></div>
+
+      <div id="footer">  </div>
+
+
+    </body>
+      </html>

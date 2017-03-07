@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bidding.iml" filepath="$PROJECT_DIR$/.idea/modules/bidding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bidding-build.iml" filepath="$PROJECT_DIR$/.idea/modules/bidding-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/item.iml" filepath="$PROJECT_DIR$/.idea/modules/item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/item-build.iml" filepath="$PROJECT_DIR$/.idea/modules/item-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root.iml" filepath="$PROJECT_DIR$/.idea/modules/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/searchApi.iml" filepath="$PROJECT_DIR$/.idea/modules/searchApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/searchApi-build.iml" filepath="$PROJECT_DIR$/.idea/modules/searchApi-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/searchImpl.iml" filepath="$PROJECT_DIR$/.idea/modules/searchImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/searchImpl-build.iml" filepath="$PROJECT_DIR$/.idea/modules/searchImpl-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/security.iml" filepath="$PROJECT_DIR$/.idea/modules/security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/security-build.iml" filepath="$PROJECT_DIR$/.idea/modules/security-build.iml" />
+    </modules>
+  </component>
+</project>

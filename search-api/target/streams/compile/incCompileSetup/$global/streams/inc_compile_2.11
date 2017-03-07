@@ -1,0 +1,309 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchItem$$anonfun$1.class
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchItem$$anonfun$2.class
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchItem$.class
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchItem.class
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchRequest$$anonfun$5.class
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchRequest$$anonfun$6.class
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchRequest$.class
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchRequest.class
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchResponse$$anonfun$3.class
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchResponse$$anonfun$4.class
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchResponse$.class
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchResponse.class
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchService$class.class
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchService.class
+binary dependencies:
+6 items
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/.ivy2/cache/com.lightbend.lagom/lagom-scaladsl-api_2.11/jars/lagom-scaladsl-api_2.11-1.3.1.jar
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.17.jar
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.5.10.jar
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.5.10.jar
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> /Users/kiki/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> com.example.auction.search.api.SearchItem
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> com.example.auction.search.api.SearchItem$
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> com.example.auction.search.api.SearchItem$$anonfun$1
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> com.example.auction.search.api.SearchItem$$anonfun$2
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> com.example.auction.search.api.SearchRequest
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> com.example.auction.search.api.SearchRequest$
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> com.example.auction.search.api.SearchRequest$$anonfun$5
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> com.example.auction.search.api.SearchRequest$$anonfun$6
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> com.example.auction.search.api.SearchResponse
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> com.example.auction.search.api.SearchResponse$
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> com.example.auction.search.api.SearchResponse$$anonfun$3
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> com.example.auction.search.api.SearchResponse$$anonfun$4
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> com.example.auction.search.api.SearchService
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> com.example.auction.search.api.SearchService$class
+used names:
+181 items
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> &&
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> <init>
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> <refinement>
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> <repeated>
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> ==
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> A
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> A3
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> A4
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> A5
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> A6
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> A7
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Any
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> AnyRef
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Applicative
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> B
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Boolean
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> ByteString
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Call
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> CanBuild2
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> CanBuild3
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> CanBuild4
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> CanBuild5
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> CanBuild6
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> CanBuild7
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> CanBuildFrom
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Class
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Coll
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Descriptor
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> F
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Format
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Function1
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Function2
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Function3
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Function4
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Function7
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> FunctionalBuilder
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> FunctionalBuilderOps
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> FunctionalCanBuild
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> GET
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> GenericFormat
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> IndexOutOfBoundsException
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Int
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> IntPathParamSerializer
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> IntReads
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> IntWrites
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> InvariantFunctor
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Iterator
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> JsPath
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> JsResult
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> JsValue
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> JsValueMessageSerializer
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Json
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> M
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Message
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> MessageSerializer
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Method
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> None
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Nothing
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> OFormat
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> OWrites
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Object
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Option
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> P1
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> P2
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> PathParamSerializer
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Predef
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Product
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Q
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> R
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Reads
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Request
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Response
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> ScalaMethodServiceCall
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> ScalaRunTime
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> SearchItem
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> SearchRequest
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> SearchResponse
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> SearchService
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Seq
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Serializable
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Service
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> ServiceCall
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> ServiceSupport
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Some
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Statics
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> StrictMessageSerializer
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> String
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> StringReads
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> StringWrites
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> T
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> T0
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> T1
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> T2
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> T3
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> T4
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> T5
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> T6
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> T7
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Traversable
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Tuple3
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Tuple4
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Tuple7
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> UUID
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> UuidWrites
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> Writes
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> \
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> _$1
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> _$11
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> _$12
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> _$6
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> _$7
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> _$8
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> _hashCode
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> _toString
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> and
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> anyHash
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> api
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> applicative
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> applicativeJsResult
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> apply
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> asInstanceOf
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> auction
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> canBuildFrom
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> collection
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> com
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> creatorId
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> currency
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> currencyId
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> description
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> deser
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> eq
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> example
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> finalizeHash
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> format
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> formatNullable
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> functional
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> functionalCanBuildApplicative
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> functionalCanBuildFormats
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> functionalCanBuildOWrites
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> getServiceCallMethodWithName
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> id
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> invariantFunctorOFormat
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> isInstanceOf
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> items
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> java
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> jsValueFormatMessageSerializer
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> json
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> keywords
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> lagom
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> libs
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> lightbend
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> maxPrice
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> methodFor2
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> mix
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> named
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> numResults
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> package
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> pageNo
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> pageSize
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> play
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> price
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> restCall
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> runtime
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> scala
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> scaladsl
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> search
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> syntax
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> temStatus
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> title
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> toFunctionalBuilderOps
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> toString
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> transport
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> traversableReads
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> traversableWrites
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> typedProductIterator
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> unlift
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> util
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> uuidReads
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> withAutoAcl
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> withCalls
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> ||
+product stamps:
+14 items
+/Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchItem$$anonfun$1.class -> lastModified(1488859377000)
+/Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchItem$$anonfun$2.class -> lastModified(1488859377000)
+/Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchItem$.class -> lastModified(1488859377000)
+/Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchItem.class -> lastModified(1488859377000)
+/Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchRequest$$anonfun$5.class -> lastModified(1488859377000)
+/Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchRequest$$anonfun$6.class -> lastModified(1488859377000)
+/Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchRequest$.class -> lastModified(1488859377000)
+/Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchRequest.class -> lastModified(1488859377000)
+/Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchResponse$$anonfun$3.class -> lastModified(1488859377000)
+/Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchResponse$$anonfun$4.class -> lastModified(1488859377000)
+/Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchResponse$.class -> lastModified(1488859377000)
+/Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchResponse.class -> lastModified(1488859377000)
+/Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchService$class.class -> lastModified(1488859377000)
+/Users/kiki/workspace/lagom-searchers/search-api/target/scala-2.11/classes/com/example/auction/search/api/SearchService.class -> lastModified(1488859377000)
+source stamps:
+1 items
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> hash(2399d45d42e33ab3ecd51727eb45547f128cea97)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1466589303000)
+/Users/kiki/.ivy2/cache/com.lightbend.lagom/lagom-scaladsl-api_2.11/jars/lagom-scaladsl-api_2.11-1.3.1.jar -> lastModified(1488536193000)
+/Users/kiki/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.17.jar -> lastModified(1486740496000)
+/Users/kiki/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.5.10.jar -> lastModified(1479436056000)
+/Users/kiki/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.5.10.jar -> lastModified(1479436085000)
+/Users/kiki/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/kiki/.ivy2/cache/com.lightbend.lagom/lagom-scaladsl-api_2.11/jars/lagom-scaladsl-api_2.11-1.3.1.jar -> com.lightbend.lagom.scaladsl.api.Service
+/Users/kiki/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.17.jar -> akka.util.ByteString
+/Users/kiki/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.5.10.jar -> play.api.libs.functional.FunctionalBuilder
+/Users/kiki/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.5.10.jar -> play.api.libs.json.OWrites
+/Users/kiki/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Product
+internal apis:
+1 items
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwJl5M7AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCFVLPedAAGZm9ybWF0dXEAfgAJAAAAOHNxAH4AC6hU0Ud0AAZwYWdlTm9zcQB+AAvxUgi1dAAGbm90aWZ5c3EAfgALiWJzpXQAB3VuYXBwbHlzcQB+AAvWkBXHdAAEd2FpdHNxAH4AC7ta6GN0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC6RpIX50AA0kYXNJbnN0YW5jZU9mc3EAfgAL+z8i6HQACHBhZ2VTaXplc3EAfgALPsOqCnQADmNvcHkkZGVmYXVsdCQ1c3EAfgALLM0NPnQADHByb2R1Y3RBcml0eXNxAH4AC4H0XuV0AAZlcXVhbHNzcQB+AAtgQP/tdAALZGVzY3JpcHRpb25zcQB+AAsAuisSdAAKY3VycmVuY3lJZHNxAH4ACxAlAwV0AAxhc0luc3RhbmNlT2ZzcQB+AAumO4qodAAFcHJpY2VzcQB+AAvtcilxdAAOU2VhcmNoUmVzcG9uc2VzcQB+AAuSAiiUdAAMc3luY2hyb25pemVkc3EAfgALwm80inQABWl0ZW1zc3EAfgALLCfw4HQADSRpc0luc3RhbmNlT2ZzcQB+AAsexr5ZdAAKZGVzY3JpcHRvcnNxAH4AC4UT96x0AAhjYW5FcXVhbHNxAH4AC3ISIql0AA5jb3B5JGRlZmF1bHQkNHNxAH4ACx/Efwp0AAljcmVhdG9ySWRzcQB+AAvi0JjVdAANcHJvZHVjdFByZWZpeHNxAH4AC/3lP/d0AAlub3RpZnlBbGxzcQB+AAuTHQ/3dAAMaXNJbnN0YW5jZU9mc3EAfgALe9BFDHQADVNlYXJjaFJlcXVlc3RzcQB+AAuJBbv4dAAGPGluaXQ+c3EAfgALU++hlHQAAmlkc3EAfgALSTfyeHQABWFwcGx5c3EAfgALZXjzz3QAAj09c3EAfgALgGEIQnQABWNsb25lc3EAfgALHG08P3QADmNvcHkkZGVmYXVsdCQ3c3EAfgALwzlF1nQABiRpbml0JHNxAH4AC71YcvJ0AAhtYXhQcmljZXNxAH4ACziLhBF0AA1TZWFyY2hTZXJ2aWNlc3EAfgALCy/dJ3QACGtleXdvcmRzc3EAfgALg1swYnQACGN1cnJlbmN5c3EAfgALtLQCy3QADmNvcHkkZGVmYXVsdCQzc3EAfgALIB10V3QABGNvcHlzcQB+AAvUgcmHdAAKU2VhcmNoSXRlbXNxAH4ACxPkG790AAl0ZW1TdGF0dXNzcQB+AAtqxK83dAAIdG9TdHJpbmdzcQB+AAsol2GSdAACIT1zcQB+AAuJtm3GdAAIZ2V0Q2xhc3NzcQB+AAv8YJY/dAAFdGl0bGVzcQB+AAt6wO7mdAAOY29weSRkZWZhdWx0JDFzcQB+AAuT5lTvdAAOY29weSRkZWZhdWx0JDZzcQB+AAvVOXAxdAACbmVzcQB+AAvcdiCldAACZXFzcQB+AAtPxpzidAAKbnVtUmVzdWx0c3NxAH4AC0Am4kF0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAt8POdJdAACIyNzcQB+AAtUcaWbdAAIZmluYWxpemVzcQB+AAt6MV9RdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAvFw6+ndAAIaGFzaENvZGVzcQB+AAt2pE8TdAAGc2VhcmNoc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAB3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AiXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXQALGNvbS5leGFtcGxlLmF1Y3Rpb24uc2VhcmNoLmFwaS5TZWFyY2hTZXJ2aWNldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmF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
+external apis:
+0 items
+source infos:
+1 items
+/Users/kiki/workspace/lagom-searchers/search-api/src/main/scala/com/example/auction/search/api/SearchService.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWqPtirl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9Vc2Vycy9raWtpL3dvcmtzcGFjZS9vbmxpbmUtYXVjdGlvbi1zY2FsYS9zZWFyY2gtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWqbGz0R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9Vc2Vycy9raWtpL3dvcmtzcGFjZS9vbmxpbmUtYXVjdGlvbi1zY2FsYS9zZWFyY2gtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWqbvKbB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9raWtpL3dvcmtzcGFjZS9sYWdvbS1zZWFyY2hlcnMvc2VhcmNoLWFwaS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

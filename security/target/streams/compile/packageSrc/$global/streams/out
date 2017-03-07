@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mPackaging /Users/kiki/workspace/online-auction-scala/security/target/scala-2.11/security_2.11-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/example/auction/security/Security.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kiki/workspace/online-auction-scala/security/src/main/scala/com/example/auction/security/Security.scala[0m
+[0m[[0mdebug[0m] [0m	com/example/auction/utils/JsonFormats.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kiki/workspace/online-auction-scala/security/src/main/scala/com/example/auction/utils/JsonFormats.scala[0m
+[0m[[0mdebug[0m] [0m	com/example/auction/utils/PaginatedSequence.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kiki/workspace/online-auction-scala/security/src/main/scala/com/example/auction/utils/PaginatedSequence.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

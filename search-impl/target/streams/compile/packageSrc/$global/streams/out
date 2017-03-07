@@ -1,0 +1,29 @@
+[0m[[0minfo[0m] [0mPackaging /Users/kiki/workspace/online-auction-scala/search-impl/target/scala-2.11/searchimpl_2.11-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/example/elasticsearch/request/Filters.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kiki/workspace/online-auction-scala/search-impl/src/main/scala/com/example/elasticsearch/request/Filters.scala[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  /Users/kiki/workspace/online-auction-scala/search-impl/src/main/resources/application.conf[0m
+[0m[[0mdebug[0m] [0m	com/example/auction/search/SearchApplicationLoader.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kiki/workspace/online-auction-scala/search-impl/src/main/scala/com/example/auction/search/SearchApplicationLoader.scala[0m
+[0m[[0mdebug[0m] [0m	com/example/elasticsearch/request/SortField.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kiki/workspace/online-auction-scala/search-impl/src/main/scala/com/example/elasticsearch/request/SortField.scala[0m
+[0m[[0mdebug[0m] [0m	com/example/auction/search/IndexedStore.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kiki/workspace/online-auction-scala/search-impl/src/main/scala/com/example/auction/search/IndexedStore.scala[0m
+[0m[[0mdebug[0m] [0m	com/example/auction/search/impl/SearchServiceImpl.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kiki/workspace/online-auction-scala/search-impl/src/main/scala/com/example/auction/search/impl/SearchServiceImpl.scala[0m
+[0m[[0mdebug[0m] [0m	com/example/auction/search/impl/BrokerEventConsumer.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kiki/workspace/online-auction-scala/search-impl/src/main/scala/com/example/auction/search/impl/BrokerEventConsumer.scala[0m
+[0m[[0mdebug[0m] [0m	com/example/elasticsearch/request/UpdateIndexItem.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kiki/workspace/online-auction-scala/search-impl/src/main/scala/com/example/elasticsearch/request/UpdateIndexItem.scala[0m
+[0m[[0mdebug[0m] [0m	com/example/elasticsearch/ElasticSearchIndexedStore.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kiki/workspace/online-auction-scala/search-impl/src/main/scala/com/example/elasticsearch/ElasticSearchIndexedStore.scala[0m
+[0m[[0mdebug[0m] [0m	com/example/elasticsearch/Elasticsearch.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kiki/workspace/online-auction-scala/search-impl/src/main/scala/com/example/elasticsearch/Elasticsearch.scala[0m
+[0m[[0mdebug[0m] [0m	com/example/elasticsearch/IndexedItem.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kiki/workspace/online-auction-scala/search-impl/src/main/scala/com/example/elasticsearch/IndexedItem.scala[0m
+[0m[[0mdebug[0m] [0m	com/example/elasticsearch/request/Query.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kiki/workspace/online-auction-scala/search-impl/src/main/scala/com/example/elasticsearch/request/Query.scala[0m
+[0m[[0mdebug[0m] [0m	com/example/elasticsearch/response/SearchResult.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kiki/workspace/online-auction-scala/search-impl/src/main/scala/com/example/elasticsearch/response/SearchResult.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

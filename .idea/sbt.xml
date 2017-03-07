@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/search-api" />
+            <option value="$PROJECT_DIR$/search-api/project" />
+            <option value="$PROJECT_DIR$/search-impl" />
+            <option value="$PROJECT_DIR$/search-impl/project" />
+            <option value="$PROJECT_DIR$/security" />
+            <option value="$PROJECT_DIR$/security/project" />
+            <option value="$PROJECT_DIR$/target/lagom-external-projects/bidding" />
+            <option value="$PROJECT_DIR$/target/lagom-external-projects/bidding/project" />
+            <option value="$PROJECT_DIR$/target/lagom-external-projects/item" />
+            <option value="$PROJECT_DIR$/target/lagom-external-projects/item/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.13" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
